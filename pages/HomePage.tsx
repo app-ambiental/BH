@@ -29,7 +29,7 @@ const HomePage: React.FC<HomePageProps> = ({ onNavigate, services }) => {
   return (
     <div className="overflow-x-hidden">
       {/* Hero Section */}
-      <section className="relative h-[70vh] md:h-[90vh] bg-cover bg-center" style={{ backgroundImage: "url('https://images.pexels.com/photos/8995451/pexels-photo-8995451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')" }}>
+      <section className="relative h-[70vh] md:h-[90vh] bg-cover bg-center" style={{ backgroundImage: "url('https://images.pexels.com/photos/8292798/pexels-photo-8292798.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')" }}>
         <div className="absolute inset-0 bg-neutral-dark/60"></div>
         <div className="relative z-10 flex flex-col items-center justify-center h-full text-white text-center px-4 animate-fade-in-up">
           <h1 className="text-4xl md:text-6xl font-heading font-bold tracking-tight leading-tight max-w-4xl">
